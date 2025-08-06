@@ -4,6 +4,7 @@
 An interactive **Excel dashboard** designed to analyze and visualize the key performance metrics of a hospital emergency room (ER). Built for healthcare administrators and stakeholders, it provides a real-time snapshot of patient statistics, wait times, demographics, and departmental referrals — all in one clean, insightful dashboard.
 
 ---
+<img width="1564" height="636" alt="Dashboard" src="https://github.com/user-attachments/assets/9077b0d4-b627-4e39-a5cf-a3c3ddbfcd8a" />
 
 ## 📌 Why It Matters
 
